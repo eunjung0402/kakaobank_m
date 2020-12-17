@@ -1,0 +1,27 @@
+section{}
+section form{padding: 20px; border-bottom: 1px solid #f3f3f3;}
+section form label{text-indent: -9999em; display: inline-block; width: 20px; height: 20px; background-position: -38px -38px;}
+section form input{width: 80%; border: 0; outline: 0;}
+
+article{}
+article h3{padding-top: 35px; padding-bottom: 22px; border-bottom: 1px solid #f3f3f3; padding-left: 20px;}
+article ul{}
+article li{cursor: pointer;}
+article li .q{padding: 27px 18px; border-bottom: 1px solid #f3f3f3; overflow: auto;}
+article li .q:hover{font-weight: bold;}
+article li .q .tit{float: left;}
+article li .q .tit:before{content: 'Q'; color: red; cursor: pointer;}
+article li .q .tit span{color: #e17073;}
+article li .q .icon{float: right; width: 16px;}
+article li .q .icon span{text-indent: -9999em;  display: block;width: 16px; height: 10px; background-position: -104px 0;}
+article li .q .icon.act span{background-position: -104px -10px;}
+
+article li .a{display: none; background-color: #f7f7f7; padding: 36px 20px; border-bottom: 1px solid #f1f1f1; color: #737373;}
+article li .a p{margin-top: 32px; line-height: 1.5em;}
+article li .a p strong{font-weight: bold;}
+
+article .more{width: calc(100% - 50px); background-color: #f7f7f7; text-align: center; padding: 20px 0; margin: 25px; color: #000; font-size: 15px;}
+article .more:hover{font-weight: bold;}
+article>p{margin-bottom: 67px; text-align: center; text-decoration-line: underline;}
+article>p:hover{font-weight: bold;}
+article>p span{display: inline-block; width: 20px; height: 20px; text-indent: -9999em; background-position: -20px -38px;}

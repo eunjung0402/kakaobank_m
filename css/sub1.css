@@ -1,0 +1,27 @@
+.sect1{}
+.sect1 .swiper-container{height: 145px;}
+.sect1 .swiper-container img{width: 100%;}
+.sect1 .swiper-container .swiper-slide{position: relative; color: #fff;}
+.sect1 .swiper-container .swiper-slide .txt1{position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);}
+.sect1 .swiper-container .swiper-slide .txt2{position: absolute; bottom: 10px; right: 10px;}
+.sect1 .swiper-button-next, .sect1 .swiper-button-prev{color: #fff;}
+
+
+section{}
+section h3{font-size: 18px; margin: 14px;}
+section p{margin: 14px; font-size: 14px; line-height: 1.5em;}
+.s1{margin-top: 30px;}
+
+.sect2{margin-top: 56px; text-align: center;}
+.sect2 hr{width: 25px; background-color: #000; border: 0; height: 2px; margin-bottom: 25px;}
+.sect2 h4{font-weight: bold; font-size: 18px; padding-top: 30px; padding-bottom: 20px;}
+.sect2 img, .sect2 iframe{width: 100%;}
+.sect2 .swiper-slide a{display: block; width: 100%; height: 132px; overflow: hidden;}
+.sect2 .swiper-pagination-bullet-active{background-color: #000;}
+
+.sect3{text-align: center; background-color: #fafafa;}
+.sect3 h3{padding-top: 45px;}
+.sect3 hr{width: 25px; background-color: #000; border: 0; height: 2px; margin-bottom: 25px; margin-bottom: 25px;}
+.sect3 .bar{width: 90%; background-color: #efefef; height: 2px; margin: 30px auto;}
+.sect3 h4{padding-top: 20px; font-size: 18px;}
+.sect3-2{margin-bottom: 40px;}
